@@ -75,9 +75,7 @@ Example: Bubble Sort
 ---
 
 ## 📸 Screenshot
-
-
-
+![Screenshot 2025-06-25 230207](https://github.com/user-attachments/assets/db7b27c6-add7-42e9-be23-8b32fc768e3e)
 ---
 
 ## 📌 Future Enhancements
